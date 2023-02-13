@@ -10,3 +10,9 @@ You’re not allowed to use sed
 It is a good file that cuts iron without making a noise
 Save current state of directory
 Duplicate last line
+No more javascript
+Don't just count your directories, make your directories count
+Create a script that displays the 10 newest files in the current directory.
+Requirements:
+One file per line
+Sorted from the newest to the oldest
