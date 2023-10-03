@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# connects to a load balancer server
+
+ssh ubuntu@100.25.193.57
